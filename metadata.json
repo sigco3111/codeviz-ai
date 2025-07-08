@@ -1,0 +1,6 @@
+{
+  "name": "CodeViz AI",
+  "description": "AI를 사용하여 프로젝트 폴더를 분석하고 코드베이스에 대한 멋진 시각화를 제공하는 지능형 대시보드입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
