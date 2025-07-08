@@ -63,7 +63,7 @@ const Dashboard: React.FC<DashboardProps> = ({
       const ai = new GoogleGenAI({ apiKey });
       const initialContextPrompt = `You are an expert AI code assistant. Project analysis: Overview: ${result.geminiAnalysis?.overview}, Tech Stack: ${result.geminiAnalysis?.techStack.join(', ')}. Refer to file contents for accurate answers.`;
       const newChat = ai.chats.create({
-          model: 'gemini-2.5-flash-preview-04-17',
+          model: 'gemini-2.5-flash',
           history: [{ role: 'user', parts: [{ text: initialContextPrompt }] }],
       });
       setChat(newChat);
