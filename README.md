@@ -2,7 +2,7 @@
 
 **CodeViz AI**는 Google Gemini AI를 사용하여 프로젝트 폴더를 분석하고, 코드베이스에 대한 통찰력 있는 시각화와 분석을 제공하는 지능형 프론트엔드 애플리케이션입니다. 코드를 이해하고, 품질을 평가하며, 개선 영역을 찾는 과정을 혁신적으로 바꾸어보세요.
 
-실행주소1 : https://codeviz-ai.vercel.app/
+실행주소1 : https://sigco3111.github.io/codeviz-ai/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
